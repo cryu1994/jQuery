@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 5px 5px 10px 10px;
+}
+.header{
+    width: 950px;
+}
+
+#button{
+    margin-left: 180px;
+
+}
+.restore{
+    padding:10px;
+    border-radius: 5px;
+    color: #10A022;
+}
